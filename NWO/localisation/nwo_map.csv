@@ -12,6 +12,7 @@ SID_60;Northern Quebec;;;;;;;;x
 SID_71;Maritimes;;;;;;;;x
 SID_74;Newfoundland;;;;;;;;x
 SID_76;Labrador;;;;;;;;x
+SID_77;Saint Pierre and Miquelon;;;;;;;;x
 SID_78;Washington;;;;;;;;x
 SID_81;Oregon;;;;;;;;x
 SID_86;California;;;;;;;;x
@@ -47,6 +48,7 @@ SID_201;Georgia;;;;;;;;x
 SID_206;South Carolina;;;;;;;;x
 SID_209;North Carolina;;;;;;;;x
 SID_213;Virginia;;;;;;;;x
+SID_217;West Virginia;;;;;;;;x
 SID_220;Maryland Delaware DC;;;;;;;;x
 SID_223;Philadelphia;;;;;;;;x
 SID_227;Pennsylvania;;;;;;;;x
@@ -57,37 +59,47 @@ SID_254;Northern Ireland;;;;;;;;x
 SID_263;Sothern Ireland;;;;;;;;x
 SID_271;Scotland;;;;;;;;x
 SID_273;Wales;;;;;;;;x
-SID_278;North England;;;;;;;;x
+SID_278;Northern England;;;;;;;;x
 SID_284;Midlands;;;;;;;;x
-SID_300;South England;;;;;;;;x
+SID_291;East of England;;;;;;;;x
+SID_296;Southwest England;;;;;;;;x
+SID_297;Southeast England;;;;;;;;x
+SID_300;Greater London;;;;;;;;x
 SID_251;Greenland;;;;;;;;x
 SID_252;Iceland;;;;;;;;x
-SID_313;Norway;;;;;;;;x
+SID_305;Trøndelag Nord-Norge;;;;;;;;x
+SID_309;Vestlandet;;;;;;;;x
+SID_313;Østlandet;;;;;;;;x
+SID_320;Norrland;;;;;;;;x
 SID_322;Svealand;;;;;;;;x
 SID_329;Götaland;;;;;;;;x
-SID_334;Scania;;;;;;;;x
-SID_343;Finland;;;;;;;;x
-SID_346;Österbotten;;;;;;;;x
-SID_348;Åland;;;;;;;;x
+SID_334;Skåne;;;;;;;;x
+SID_343;Southwest Finland;;;;;;;;x
+SID_346;Northeast Finland;;;;;;;;x
+SID_348;Åland Islands;;;;;;;;x
 SID_372;Denmark;;;;;;;;x
-SID_377;Utrecht;;;;;;;;x
-SID_375;North Holland;;;;;;;;x
-SID_376;South Holland;;;;;;;;x
+SID_377;Northern Netherlands;;;;;;;;x
+SID_378;Eastern Netherlands;;;;;;;;x
+SID_375;Holland;;;;;;;;x
+SID_379;Southern Netherlands;;;;;;;;x
 SID_390;Flanders;;;;;;;;x
 SID_387;Brussels;;;;;;;;x
 SID_394;Wallonia;;;;;;;;x
-SID_425;Ile de France;;;;;;;;x
+SID_399;Hauts-de-France;;;;;;;;x
+SID_425;Île-de-France;;;;;;;;x
 SID_412;Grand Est;;;;;;;;x
+SID_418;Normadie;;;;;;;;x
 SID_428;Bourgogne-Franche-Comté;;;;;;;;x
-SID_423;Bretagne;;;;;;;;x
-SID_451;Rhone;;;;;;;;x
-SID_458;Aquitaine;;;;;;;;x
-SID_467;Provence;;;;;;;;x
+SID_423;Bretagne-Pays de la Loire;;;;;;;;x
+SID_451;Auvergne-Rhône-Alpes;;;;;;;;x
+SID_458;Nouvelle-Aquitaine;;;;;;;;x
+SID_467;Provence-Alpes-Côte d'Azur;;;;;;;;x
 SID_441;Centre-Val de Loire;;;;;;;;x
 SID_455;Occitanie;;;;;;;;x
+SID_473;Corsica;;;;;;;;x
 SID_474;Galicia;;;;;;;;x
-SID_487;Castile;;;;;;;;x
-SID_475;León;;;;;;;;x
+SID_487;Castila-La Mancha;;;;;;;;x
+SID_475;Castile and León;;;;;;;;x
 SID_495;Aragon;;;;;;;;x
 SID_484;Extremadura;;;;;;;;x
 SID_492;Basque Country;;;;;;;;x
@@ -99,17 +111,20 @@ SID_521;South Portugal;;;;;;;;x
 SID_502;Balearic Islands;;;;;;;;x
 SID_528;Schleswig-Holstein;;;;;;;;x
 SID_534;Lower Saxony;;;;;;;;x
-SID_551;Brandenburg-Mecklenburg;;;;;;;;x
-SID_559;Saxony-Thuringia;;;;;;;;x
+SID_544;Mecklenburg-Vorpommern;;;;;;;;x;;;;;;;;;;;;;
+SID_551;Brandenburg;;;;;;;;x
+SID_553;Saxony-Anhalt;;;;;;;;x;;;;;;;;;;;;;
+SID_554;Thuringia;;;;;;;;x;;;;;;;;;;;;;
+SID_559;Saxony;;;;;;;;x
 SID_549;Berlin;;;;;;;;x
-SID_564;Hessen;;;;;;;;x
+SID_564;Hesse;;;;;;;;x
 SID_573;Saarland;;;;;;;;x
 SID_397;Luxembourg;;;;;;;;x
 SID_575;North Rhine-Westphalia;;;;;;;;x
 SID_570;Rhineland-Palatinate;;;;;;;;x
 SID_578;Düsseldorf;;;;;;;;x
 SID_580;Ruhr;;;;;;;;x
-SID_589;Baden-Wurttemberg;;;;;;;;x
+SID_589;Baden-Württemberg;;;;;;;;x
 SID_599;Bavaria;;;;;;;;x
 SID_603;Central Switzerland;;;;;;;;x
 SID_2568;Ticino;;;;;;;;x
@@ -129,29 +144,31 @@ SID_625;Bohemia;;;;;;;;x
 SID_633;Slovakia;;;;;;;;x
 SID_950;Carpathian Ruthenia;;;;;;;;x
 SID_641;Hungary;;;;;;;;x
-SID_654;Western Transylvania;;;;;;;;x
+SID_654;Northern Transylvania;;;;;;;;x
 SID_2533;Eastern Transylvania;;;;;;;;x
 SID_703;Lesser Poland;;;;;;;;x
 SID_702;Lviv;;;;;;;;x
 SID_662;Chernivtsi;;;;;;;;x
-SID_735;South Tirol;;;;;;;;x
 SID_768;Slovenia;;;;;;;;x
 SID_771;Croatia;;;;;;;;x
-SID_793;Krajina;;;;;;;;x
+SID_779;Slavonia;;;;;;;;x
 SID_780;Dalmatia;;;;;;;;x
 SID_791;Vojvodina;;;;;;;;x
+SID_793;Krajina;;;;;;;;x
 SID_2538;Backa;;;;;;;;x
-SID_726;North Italy;;;;;;;;x
-SID_720;Piemonte;;;;;;;;x
+SID_726;Lombardy;;;;;;;;x
+SID_729;Veneto;;;;;;;;x
+SID_720;Piemonte-Liguria;;;;;;;;x
 SID_741;Emilia-Romagna;;;;;;;;x
 SID_744;Tuscany;;;;;;;;x
 SID_749;Lazio;;;;;;;;x
 SID_754;South Italy;;;;;;;;x
 SID_762;Sicily;;;;;;;;x
 SID_765;Sardinia;;;;;;;;x
-SID_473;Corscia;;;;;;;;x
-SID_664;Romania;;;;;;;;x
 SID_818;Dobrudja;;;;;;;;x
+SID_652;Southern Transylvania;;;;;;;;x
+SID_664;Wallachia;;;;;;;;x
+SID_670;Moldavia;;;;;;;;x
 SID_676;Besserabia;;;;;;;;x
 SID_677;Transnistria;;;;;;;;x
 SID_2589;Gagauzia;;;;;;;;x
@@ -167,10 +184,13 @@ SID_807;Northwestern Macedonia;;;;;;;;x
 SID_809;Bulgaria;;;;;;;;x
 SID_830;Eastern Macedonia;;;;;;;;x
 SID_805;Southern Macedonia;;;;;;;;x
-SID_834;Greece;;;;;;;;x
-SID_846;Dodecanese;;;;;;;;x
+SID_831;Thessaly;;;;;;;;x
+SID_834;Attica;;;;;;;;x
+SID_842;Peloponnese;;;;;;;;x
+SID_846;Aegean Islands;;;;;;;;x
+SID_847;Crete;;;;;;;;x
 SID_849;Albania;;;;;;;;x
-SID_853;Eripidus;;;;;;;;x
+SID_853;Epirus;;;;;;;;x
 SID_855;Cyprus;;;;;;;;x
 SID_857;North Cyprus;;;;;;;;x
 SID_860;Thrace;;;;;;;;x
@@ -238,8 +258,7 @@ SID_349;Estonia;;;;;;;;x
 SID_354;Latvia;;;;;;;;x
 SID_361;Lithuania;;;;;;;;x
 SID_360;Vilnius;;;;;;;;x
-SID_995;East Karelia;;;;;;;;x
-SID_339;West Karelia;;;;;;;;x
+SID_339;Karelia;;;;;;;;x
 SID_982;Petsamo;;;;;;;;x
 SID_706;Central Poland;;;;;;;;x
 SID_936;Grodno;;;;;;;;x
@@ -255,7 +274,7 @@ SID_979;Rostov;;;;;;;;x
 SID_998;Tver;;;;;;;;x
 SID_987;Komi;;;;;;;;x
 SID_977;Kursk;;;;;;;;x
-SID_994;St Petersburg;;;;;;;;x
+SID_994;Leningrad;;;;;;;;x
 SID_1008;Moscow;;;;;;;;x
 SID_1020;Nizhni-Novgorod;;;;;;;;x
 SID_1030;Tatarstan;;;;;;;;x
@@ -472,7 +491,7 @@ SID_1713;Interior Algeria;;;;;;;;x
 SID_1725;Tunisia;;;;;;;;x
 SID_1731;Tripolitania;;;;;;;;x
 SID_1735;Cyrenaica;;;;;;;;x
-SID_1744;Fezzan;;;;;;;;x
+SID_1742;Fezzan;;;;;;;;x
 SID_1745;Cairo;;;;;;;;x
 SID_1769;Luxor;;;;;;;;x
 SID_1751;Alexandria;;;;;;;;x
@@ -592,17 +611,18 @@ SID_2174;Toluca;;;;;;;;x
 SID_2170;Jalisco-Michoacán;;;;;;;;x
 SID_2167;San Luis Potosi-Zacatecas;;;;;;;;x
 SID_2186;Guatemala;;;;;;;;x
+SID_2190;Belize;;;;;;;;x
 SID_2191;El Salvador;;;;;;;;x
 SID_2193;Honduras;;;;;;;;x
 SID_2196;Puerto Lampira;;;;;;;;x
 SID_2197;Nicaragua;;;;;;;;x
 SID_2200;Mosquito;;;;;;;;x
 SID_2201;Costa Rica;;;;;;;;x
-SID_1723;Panama Canal;;;;;;;;x
+SID_1723;Panama Canal Zone;;;;;;;;x
 SID_2204;Panama;;;;;;;;x
 SID_2209;Cuba;;;;;;;;x
 SID_2213;Haiti;;;;;;;;x
-SID_2214;Dominican;;;;;;;;x
+SID_2214;Santo Domingo;;;;;;;;x
 SID_203;Bermuda;;;;;;;;x
 SID_2218;Cayman Islands;;;;;;;;x
 SID_2217;Jamaica;;;;;;;;x
@@ -627,7 +647,7 @@ SID_2235;Aruba;;;;;;;;x
 SID_2243;Essequibo;;;;;;;;x
 SID_2239;Guayana;;;;;;;;x
 SID_2240;Suriname;;;;;;;;x
-SID_2241;Guyana Cayenne;;;;;;;;x
+SID_2241;Guiana;;;;;;;;x
 SID_2275;Guyana;;;;;;;;x
 SID_2270;Zulia;;;;;;;;x
 SID_2268;Central Venezuela;;;;;;;;x
@@ -686,6 +706,7 @@ SID_2373;Argentine Northwest;;;;;;;;x
 SID_2392;Patagonia;;;;;;;;x
 SID_2468;New South Wales;;;;;;;;x
 SID_2476;Victoria;;;;;;;;x
+SID_2477;Tasmania;;;;;;;;x
 SID_2483;Queensland;;;;;;;;x
 SID_2491;South Australia;;;;;;;;x
 SID_2505;Northern Territory;;;;;;;;x
@@ -716,8 +737,7 @@ SID_2544;East Samoa;;;;;;;;x
 SID_2547;Tokelau;;;;;;;;x
 SID_801;Tahiti;;;;;;;;x
 SID_2552;Pitcairn Islands;;;;;;;;x
-SID_736;Trieste;;;;;;;;x
-SID_770;Istria;;;;;;;;x
+SID_736;Istria;;;;;;;;x
 SID_69;Acadia;;;;;;;;x
 SID_159;Wisconsin;;;;;;;;x
 SID_182;Ohio;;;;;;;;x
@@ -725,8 +745,7 @@ SID_189;Tennessee;;;;;;;;x
 SID_143;Arkansas;;;;;;;;x
 SID_2179;Chiapas;;;;;;;;x
 SID_1462;Muslim Mindanao;;;;;;;;x
-SID_1086;North Sakhalin;;;;;;;;x
-SID_1087;South Sakhalin;;;;;;;;x
+SID_1087;Sakhalin;;;;;;;;x
 SID_1088;Kurils;;;;;;;;x
 SID_1147;Khorasan East Persia;;;;;;;;x
 SID_1876;Cape Verde;;;;;;;;x
